@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NextdialSDK",
-            url: "https://github.com/nxtbr/nextdial-ios-sdk-spm/releases/download/0.1.0/NextdialSDK-0.1.0.xcframework.zip",
-            checksum: "592c6475dcef91a69aa886419652f2ed1c0ffa2a650f48a7b80e0622b82603e1"
+            url: "https://github.com/nxtbr/nextdial-ios-sdk-spm/releases/download/0.1.1/NextdialSDK-0.1.1.xcframework.zip",
+            checksum: "1481a6efb59b1eb474a100dd5dc1cb2e431bf61a26a7eee648bba76ee7a9fb4dP"
         )
     ]
 )
