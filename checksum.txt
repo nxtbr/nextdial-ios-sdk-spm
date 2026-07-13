@@ -1,1 +1,1 @@
-1481a6efb59b1eb474a100dd5dc1cb2e431bf61a26a7eee648bba76ee7a9fb4d
+5e7f0f817fb636ffa0c7d786639d5d992f693d5b160cc147fc8b85f4a14db63f  NextdialSDK-0.1.2.xcframework.zip
