@@ -1,1 +1,1 @@
-3288e71cbfeb51cedc57d8a67d31a51feb33664a63f7350816ab0c01f830daff  NextdialSDK-1.0.0.xcframework.zip
+bef1a299209ee3732a115bacd47a90642c2ae596d2a0ec9950040ddda0ab8e13  NextdialSDK-1.0.1.xcframework.zip

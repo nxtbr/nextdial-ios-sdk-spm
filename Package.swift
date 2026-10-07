@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "NextdialSDK",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v15)
     ],
     products: [
         .library(
@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NextdialSDK",
-            url: "https://github.com/nxtbr/nextdial-ios-sdk-spm/releases/download/1.0.0/NextdialSDK-1.0.0.xcframework.zip",
-            checksum: "3288e71cbfeb51cedc57d8a67d31a51feb33664a63f7350816ab0c01f830daff"
+            url: "https://github.com/nxtbr/nextdial-ios-sdk-spm/releases/download/1.0.1/NextdialSDK-1.0.1.xcframework.zip",
+            checksum: "bef1a299209ee3732a115bacd47a90642c2ae596d2a0ec9950040ddda0ab8e13"
         )
     ]
 )
